@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidationTextFields-Medium", "ValidationTextFields-Medium\ValidationTextFields-Medium.csproj", "{D4C37F24-FCCB-49AF-9CD8-2466FBDB65AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4C37F24-FCCB-49AF-9CD8-2466FBDB65AA}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D4C37F24-FCCB-49AF-9CD8-2466FBDB65AA}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D4C37F24-FCCB-49AF-9CD8-2466FBDB65AA}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D4C37F24-FCCB-49AF-9CD8-2466FBDB65AA}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D4C37F24-FCCB-49AF-9CD8-2466FBDB65AA}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D4C37F24-FCCB-49AF-9CD8-2466FBDB65AA}.Release|iPhone.Build.0 = Release|iPhone
+		{D4C37F24-FCCB-49AF-9CD8-2466FBDB65AA}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D4C37F24-FCCB-49AF-9CD8-2466FBDB65AA}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8DC5235-A82B-4C10-8297-C3B1C2F4FC3D}
+	EndGlobalSection
+EndGlobal
